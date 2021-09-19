@@ -1,0 +1,6 @@
+GET https://www.worldcoinindex.com/apiservice/ticker?key=2NhODe0QtBpAdGytZEuh8h4M7eukZpAP3a9&label=ethbtc&fiat=btc
+
+### INDEX
+
+GET http://localhost:3000/cryptos
+Content-Type: application/json
